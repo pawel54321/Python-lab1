@@ -1,1 +1,2 @@
-# Python-lab1
+# Python-laboratoria
+Laboratoria 
