@@ -1,0 +1,9 @@
+x1=-6.577350269189626
+x2=-5.422649730810374
+Równanie nie ma rozwi¹zañ rzeczywistych.
+x1=-18.544361719689455
+x2=-11.455638280310543
+x1=-9.87082869338697
+x2=-6.12917130661303
+Równanie nie ma rozwi¹zañ rzeczywistych.
+x0=-1.0

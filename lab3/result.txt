@@ -1,0 +1,7 @@
+array('i', [2])
+array('i', [3])
+array('i', [2])
+array('i', [3])
+array('i', [5])
+array('i', [0])
+array('i', [-2])
